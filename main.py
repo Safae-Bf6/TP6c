@@ -1,1 +1,2 @@
-"print('Bienvenue dans le programme!')" 
+"def greet(name):"
+"print(f'Bonjour , {name}!')"
